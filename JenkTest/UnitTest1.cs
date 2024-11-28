@@ -22,5 +22,10 @@ namespace JenkTest
         {
             Assert.IsTrue(true);
         }
+        [Test]
+        public void Test4()
+        {
+            Assert.IsTrue(true);
+        }
     }
 }
